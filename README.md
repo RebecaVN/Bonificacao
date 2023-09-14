@@ -24,3 +24,5 @@ Atraso;
 Falta.
 
 > Faça um teste por vez para cada candidato. Imprimir o nome e a bonificação.
+ <hr>
+<img width="100%" src="ass.svg"></img> 
